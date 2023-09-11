@@ -1,0 +1,626 @@
+
+{
+  "ToonsPlus": [
+    {
+      "title": "Tata Play Toons+",
+      "tataSkyid": 994,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd", 
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd",
+      "k" : "4edec741347853839fe97a732e505825:ddd1b3af6a2610bb34f7147f386f4311",
+      "audio" : ["Hindi", "Tamil", "Telugu" , "Bengali" , "Marathi" , "Punjabi"],
+      "audio_id" : ["audio_94482_hin=94000" , "audio_94490_tam=94000" , "audio_94483_tel=94000" , "audio_94486_ben=94000" , "audio_94487_mar=94000" , "audio_94494_pan=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "480p"
+    }
+  ],
+  "StarSurvanaHD": [
+    {
+      "title": "Star Survana HD",
+      "tataSkyid":467,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "catchupLink" : "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "k" : "c9fbca67252552d48ccf07589a980267:3df4ea6c62d3ec6ae8887d6c76eec8c2",
+      "audio" : ["Kannada"],
+      "audio_id" : ["audio_122082_und=121600"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "1080p"
+    }
+  ],
+  "StarSurvanaHD_720pHQ": [
+    {
+      "title": "Star Survana HD",
+      "tataSkyid":467,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "catchupLink" : "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "k" : "c9fbca67252552d48ccf07589a980267:3df4ea6c62d3ec6ae8887d6c76eec8c2",
+      "audio" : ["Kannada"],
+      "audio_id" : ["audio_122082_und=121600"],
+      "video_id" : "video=2452400",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "720p.HQ"
+    }
+  ],
+  "StarSurvanaHD_720p": [
+    {
+      "title": "Star Survana HD",
+      "tataSkyid":467,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "catchupLink" : "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+      "k" : "c9fbca67252552d48ccf07589a980267:3df4ea6c62d3ec6ae8887d6c76eec8c2",
+      "audio" : ["Kannada"],
+      "audio_id" : ["audio_122082_und=121600"],
+      "video_id" : "video=1927600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "720p"
+    }
+  ],
+  "Star_Sports_Select_2_HD": [
+    {
+      "title": "Star Sports Select 2 HD",
+      "tataSkyid": 463,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
+      "k" : "b11dd25b629159868b77d5cb4cdd8129:15d7d65beb26f075be4ec5b62d8e9fa5",
+      "audio" : ["English"],
+      "audio_id" : ["audio_122082_und=121600"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "1080p"
+    }
+  ],
+  "TPLAY_Videshi_Kahaniyan": [
+    {
+      "title": "Tata Play Videshi Kahaniyan",
+      "tataSkyid": 943,
+      "link": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd",
+      "k" : "5b18a83db2005d2f91645df546a7eca4:e6985d2baa6d19754bbc3fcdcab93c64",
+      "audio" : ["Hindi"],
+      "audio_id" : ["audio_75681_hin=75200"],
+      "video_id" : "video=1272000",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "480p"
+    }
+  ],
+  "Colors_Kannada_HD": [
+    {
+      "title": "Colors Kannada HD",
+      "tataSkyid": 612,
+      "link": "https://delta11tatasky.akamaized.net/out/i/2761642.mpd",
+      "k" : "0e50565a3b8144f8b135c8a7183928f3:4901d54a97d0f6f29e2e81d2e56f0d05",
+      "audio" : ["Kannada"],
+      "audio_id" : [14],
+      "video_id" : 1,
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "1080p"
+    }
+  ],
+  "TPlayHits": [
+    {
+      "title": "Tata Play Hits",
+      "tataSkyid": 808,
+      "link": "https://delta13tatasky.akamaized.net/out/i/2292664.mpd",
+      "k" : "dcf0a83854ca416586b9866ef01f9073:47651ee63e4594ef04d92fcdc7bd774c",
+      "audio" : ["English"],
+      "audio_id" : [13],
+      "video_id" : 1,
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "1080p"
+    }
+  ],
+  "Sports18HD": [
+    {
+      "title": "Sports 18 - 1 HD",
+      "tataSkyid": 1033,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
+      "k" : "192dd5f0779d5983a3aa18276a9fb719:8e462afd615fb08cdeba8ada1a6d1d78",
+      "audio" : ["English"],
+      "audio_id" : ["audio_77200_und=75200"],
+      "video_id" : "video=3110800",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:00",
+      "quality" : "1080p"
+    }
+  ],
+  "CNHD+": [
+    {
+      "title": "Cartoon Network HD+",
+      "tataSkyid": 1033,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
+      "k" : "f581424c14e35eee924f0a0b9d22c81c:fea9545fbabf3eb1f52551a53ef53837",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : ["audio_94482_hin=94000", "audio_94484_eng=94000"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "00:15:00",
+      "quality" : "480p"
+    }
+  ],
+  "SuperHungama": [
+    {
+      "title": "Super Hungama",
+      "tataSkyid": 1033,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
+      "k" : "50b6cc4817f9538c916ce2e119228160:999a704ed6c2ea7fe063f6591952e1d2",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "English"],
+      "audio_id" : ["audio_94482_hin=94000", "audio_94487_tam=94000", "audio_94489_tel=94000" , "audio_94485_eng=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "00:15:00",
+      "quality" : "480p"
+    }
+  ],
+  "SuperHungamaTri": [
+    {
+      "title": "Super Hungama",
+      "tataSkyid": 1033,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
+      "k" : "50b6cc4817f9538c916ce2e119228160:1bc7cc63f69249c1c824786f52d3c3ef",
+      "audio" : ["Hindi" , "Tamil" , "Telugu"],
+      "audio_id" : ["audio_94482_hin=94000", "audio_94487_tam=94000", "audio_94489_tel=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "00:15:00",
+      "quality" : "480p"
+    }
+  ],
+  "ETVBalBharat1": [
+    {
+      "title": "ETV Bal Bharat1",
+      "tataSkyid": 905,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd", 
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd",
+      "k" : "930f57eb8475524593ee585314c6dad3:0efb9cd5edc4de6e75eb6dca9b909054",
+      "audio" : ["Hindi", "Tamil", "Telugu" , "Bengali" , "Gujarati" , "Punjabi" , "Assamese", "Malayalam", "Marathi"],
+      "audio_id" : ["audio_122086_eng=121600" , "audio_122092_tam=121600" , "audio_122093_tel=121600" , "audio_122083_ben=121600" , "audio_122085_guj=121600" , "audio_122091_pan=121600", "audio_122082_asm=121600", "audio_122088_mal=121600", "audio_122089_mar=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "ETVBalBharat": [
+    {
+      "title": "ETV Bal Bharat",
+      "tataSkyid": 905,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd", 
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd",
+      "k" : "930f57eb8475524593ee585314c6dad3:0efb9cd5edc4de6e75eb6dca9b909054",
+      "audio" : ["Tamil", "Telugu"  , "Gujarati" , "Bengali", "Malayalam", "Kannada" , "Odia", "Punjabi", "Marathi", "Assamese" ,"English"],
+      "audio_id" : ["audio_122092_tam=121600" , "audio_122093_tel=121600" , "audio_122085_guj=121600" , "audio_122083_ben=121600", "audio_122088_mal=121600", "audio_122087_kan=121600" ,  "audio_122090_ori=121600", "audio_122091_pan=121600", "audio_122089_mar=121600", "audio_122082_asm=121600", "audio_122086_eng=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "CNTri": [
+    {
+      "title": "Cartoon Network",
+      "tataSkyid": 238,
+      "jioID" : 816,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd", 
+      "catchupLink": "http://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
+      "k" : "37da44b2890a5445bae74e315802850c:337cd065756eb6369648f703de945424",
+      "audio" : ["Hindi", "Tamil", "Telugu" , "English" , "Kannada" , "Malayalam"],
+      "audio_id" : ["audio_94482_hin=94000" , "audio_94484_tam=94000" , "audio_94485_tel=94000" , "audio_94483_eng=94000" , "audio_94486_kan=94000" , "audio_94487_mal=94000" ],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "InvestigationDiscovery": [
+    {
+      "title": "Investigation Discovery",
+      "tataSkyid": 633,
+      "jioID" : 816,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.md", 
+      "catchupLink": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd", 
+      "k" : "f2b955e9c79259e3b0c802fa5ebee47b:a14d788bc57bed15e8b0fb140cdc22f7",
+      "audio" : ["Hindi", "English"],
+      "audio_id" : ["audio_51496_hin=51200" , "audio_51497_eng=51200"],
+      "video_id" : "video=1245600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "360p.HQ"
+    }
+  ],
+  "Sonic": [
+    {
+      "title": "Sonic Nickelodeon",
+      "tataSkyid": 127,
+      "jioID" : 815,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd", 
+      "catchupLink": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd",
+      "k" : "966ce4ee21745f4bb811fcf61e76aefd:30ed0a3f0c20b61249ae40661e5d9e5a",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "Kannada" , "Bengali", "Marathi" , "Malayalam"],
+      "audio_id" : ["audio_122086_hin=121600" , "audio_122094_tam=121600" , "audio_122090_tel=121600" , "audio_122082_kan=121600" , "audio_122087_ben=121600" , "audio_122091_mar=121600" , "audio_122083_mal=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "Nick": [
+    {
+      "title": "Nick",
+      "tataSkyid": 138,
+      "link": " https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd",
+      "k" : "e634a5ce531a58e99a39dbf578e2554b:01b25abcd9a2490a8c3e78cfd35e4a69",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "Malayalam", "Kannada" , "Bengali", "Marathi"],
+      "audio_id" : ["audio_94482_hin=94000" , "audio_94485_tam=94000" , "audio_94484_tel=94000" , "audio_94486_mal=94000", "audio_94483_kan=94000" , "audio_94487_ben=94000" , "audio_94488_mar=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "02:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyJunior": [
+    {
+      "title": "Disney Junior",
+      "tataSkyid": 144,
+      "link": " https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "catchupLink": " https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "k" : "d7ebcd866c3454cfac63a19ac6f615fa:76ac10fc1bd2f000eea8e0f1b2885485",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "English"],
+      "audio_id" : ["audio_94483_hin=94000", "audio_94484_tam=94000", "audio_94485_tel=94000" , "audio_94482_eng=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyJuniorDual": [
+    {
+      "title": "Disney Junior",
+      "tataSkyid": 144,
+      "link": " https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "catchupLink": " https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "k" : "d7ebcd866c3454cfac63a19ac6f615fa:76ac10fc1bd2f000eea8e0f1b2885485",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : ["audio_94483_hin=94000", "audio_94482_eng=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyJuniorTri": [
+    {
+      "title": "Disney Junior",
+      "tataSkyid": 144,
+      "link": " https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "catchupLink": " https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "k" : "d7ebcd866c3454cfac63a19ac6f615fa:76ac10fc1bd2f000eea8e0f1b2885485",
+      "audio" : ["Hindi" , "Tamil" , "Telugu"],
+      "audio_id" : ["audio_94483_hin=94000", "audio_94484_tam=94000", "audio_94485_tel=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyJuniorSingle": [
+    {
+      "title": "Disney Junior",
+      "tataSkyid": 144,
+      "link": " https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "catchupLink": " https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd", 
+      "k" : "d7ebcd866c3454cfac63a19ac6f615fa:76ac10fc1bd2f000eea8e0f1b2885485",
+      "audio" : ["Hindi"],
+      "audio_id" : ["audio_94483_hin=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "NickHD+": [
+    {
+      "title": "Nick HD+",
+      "tataSkyid": 433,
+      "jioID" : 1226,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd",
+      "k" : "d45505e1ed36506ca72b39eda106d33f:53a9a20c27845e6725d9617d01469743",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : ["audio_122084_hin=121600" , "audio_122082_eng=121600"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "1080p"
+    }
+  ],
+  "Disney": [
+    {
+      "title": "Disney Channel",
+      "tataSkyid": 114,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
+      "k" : "2f27d053d83d5284859cdd8b26bb17e2:a8bc856f5d93a5c57b378db35e201643",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "English"],
+      "audio_id" : ["audio_94494_hin=94000" , "audio_94486_tam=94000" , "audio_94490_tel=94000" , "audio_94482_eng=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyTri": [
+    {
+      "title": "Disney Channel",
+      "tataSkyid": 114,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
+      "k" : "2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0",
+      "audio" : ["Hindi" , "Tamil" , "Telugu"],
+      "audio_id" : ["audio_94494_hin=94000" , "audio_94486_tam=94000" , "audio_94490_tel=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "DisneyDual": [
+    {
+      "title": "Disney Channel",
+      "tataSkyid": 114,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
+      "k" : "2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : ["audio_94494_hin=94000" , "audio_94482_eng=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "DisneySingle": [
+    {
+      "title": "Disney Channel",
+      "tataSkyid": 114,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
+      "k" : "2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0",
+      "audio" : ["Hindi"],
+      "audio_id" : ["audio_94494_hin=94000"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "480p"
+    }
+  ],
+  "Pogo": [
+    {
+      "title": "Pogo",
+      "tataSkyid": 239,
+      "jioID" : 559,
+      "link": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd",
+      "catchupLink" : "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd" ,
+      "k" : "01788c60ef0d5e7abb23d69527fad4cb:26494e0f9e18b90f402e58db082fca28",
+      "audio" : ["Hindi" , "Tamil" , "Telugu", "Malayalam" , "Kannada", "Marathi"],
+      "audio_id" : ["audio_122082_hin=121600" , "audio_122090_tam=121600" , "audio_122086_tel=121600", "audio_122083_mal=121600", "audio_122094_kan=121600", "audio_122087_mar=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "PogoTri": [
+    {
+      "title": "Pogo",
+      "tataSkyid": 239,
+      "jioID" : 559,
+      "link": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd",
+      "catchupLink" : "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd" ,
+      "k" : "01788c60ef0d5e7abb23d69527fad4cb:436bf7bc453b404dc39418db94a7244c",
+      "audio" : ["Hindi" , "Tamil" , "Telugu"],
+      "audio_id" : ["audio_122082_hin=121600" , "audio_122090_tam=121600" , "audio_122086_tel=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:10:00",
+      "quality" : "480p"
+    }
+  ],
+  "SonyYay": [
+    {
+      "title": "Sony Yay",
+      "tataSkyid": 45,
+      "jioID" : 872,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd", 
+      "k" : "77de287e104b5c369d554be9364e8d36:9b816472f7a77eebfb04aa1726a50cf6",
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "Bengali" , "Marathi"],
+      "audio_id" : ["audio_122082_hin=121600" , "audio_122083_tam=121600" , "audio_122086_tel=121600" , "audio_122087_ben=121600" , "audio_122094_mar=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "360p"
+    }
+  ],
+  "SonyYayTel": [
+    {
+      "title": "Sony Yay",
+      "tataSkyid": 45,
+      "jioID" : 872,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd", 
+      "k" : "77de287e104b5c369d554be9364e8d36:9b816472f7a77eebfb04aa1726a50cf6",
+      "catchupLink" : "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd",
+      "audio" : [ "Telugu", "Tamil" , "Hindi"  ,"Bengali" , "Marathi"],
+      "audio_id" : [ "audio_122086_tel=121600" , "audio_122083_tam=121600", "audio_122082_hin=121600"  ,"audio_122087_ben=121600" , "audio_122094_mar=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "04:09:55",
+      "quality" : "360p"
+    }
+  ],
+  "DKids": [
+    {
+      "title": "Discovery Kids",
+      "tataSkyid": 119,
+      "jioID" : 554,
+      "link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd",
+      "k" : "4fb04a8b851b5b90b14b5400640ec533:bb226e61b8ac05420cede8409754cc8a",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "Kannada" , "Malayalam"],
+      "audio_id" : ["audio_122082_hin=121600" , "audio_122084_tam=121600" , "audio_122085_tel=121600" , "audio_122086_kan=121600" , "audio_122083_mal=121600"],
+      "video_id" : "video=1297600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "4:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "NatGeoHD": [
+    {
+      "title": "National Geographic HD",
+      "tataSkyid": 605,
+      "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd",
+      "k" : "f506b7e7efb1504ea2b72dfcbc9c810e:8f2e1ef36a198139d7a640a8732449fe",
+      "audio" : ["Hindi" , "Tamil" , "Telugu" , "Bengali" , "Kannada" , "English"],
+      "audio_id" : ["audio_94492_hin=94000" , "audio_94490_tam=94000" , "audio_94486_tel=94000" , "audio_94488_ben=94000" , "audio_94482_kan=94000" , "audio_94484_eng=94000"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "1080p"
+    }
+  ],
+  "NickJr": [
+    {
+      "title": "Nick Jr",
+      "tataSkyid": 118,
+      "jioID" : 544,
+      "link": "https://delta10tatasky.akamaized.net/out/i/2672019.mpd", 
+      "k" : "5b4e128aadee4ae8af084ea7cf4c9199:702dd39cbbbf1e90dfa7a4debf66c11e",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : [8 , 5],
+      "video_id" : 1,
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "360p"
+    }
+  ],
+  "Gubbare": [
+    {
+      "title": "Gubbare",
+      "tataSkyid": 867,
+      "link": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd", 
+      "k" : "413a414b01f5516888a210ca9f27ee63:4ba5049cfc7b4ac4b0da5feebf44d156",
+      "catchupLink": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
+      "audio" : ["Hindi"],
+      "audio_id" : ["audio_77200_und=75200"],
+      "video_id" : "video=1272000",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "SonySabHD": [
+    {
+      "title": "SONY SAB HD",
+      "tataSkyid": 48,
+      "jioID" : 471,
+      "link": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd", 
+      "k" : "db6f1dbe0c005c2694914cca4791f6d5:5714ce8081a9209e525435aaa520c815",
+      "catchupLink": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
+      "audio" : ["Hindi"],
+      "audio_id" : ["audio_94482_und=94000"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "1080p"
+    }
+  ],
+  "DiscoveryScience": [
+    {
+      "title": "Discovery Science",
+      "tataSkyid": 113,
+      "jioID" : 568,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd", 
+      "k" : "865fdba59a615b9b8bd27aee5c9a0a15:18ec4f89bbde6f95e2ad9b62a5c0d720",
+      "catchupLink": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd",
+      "audio" : ["Hindi" , "English"],
+      "audio_id" : ["audio_84692_hin=84400" , "audio_84696_eng=84400"],
+      "video_id" : "video=1245600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "480p"
+    }
+  ],
+  "NatGeoWildHD": [
+    {
+      "title": "Nat Geo Wild HD",
+      "tataSkyid": 413,
+      "link": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd", 
+      "k" : "d58f149e0e8753edbbb1ad18704d5204:e67881ae8e03224d51225eae30fd54fd",
+      "catchupLink": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd",
+      "audio" : ["Hindi" , "Tamil", "Telugu", "English"],
+      "audio_id" : ["audio_94486_hin=94000" , "audio_94484_tam=94000" , "audio_94484_tam=94000" , "audio_94482_eng=94000"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "1080p"
+    }
+  ],
+  "HistoryTV18HD": [
+    {
+      "title": "History TV18 HD",
+      "tataSkyid": 616,
+      "jioID" : 146,
+      "link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd", 
+      "catchupLink" : "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd",
+      "k" : "2b516de365885b969979bc9f46c4232b:1e0c57cfc7ae99eba9661849519ebc1b",
+      "audio" : ["Hindi" , "Tamil", "Telugu", "English"],
+      "audio_id" : ["audio_122083_hin=121600" , "audio_122084_tam=121600" , "audio_122085_tel=121600" , "audio_122082_eng=121600"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "1080p"
+    }
+  ],
+  "SonyPixHD": [
+    {
+      "title": "SONY PIX HD",
+      "tataSkyid": 32,
+      "jioID" : 762,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd", 
+      "catchupLink": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd",
+      "k" : "89413479ba07590893320faf05a6b7fd:42bcb08112ddec99d8fcc3fc5892a163",
+      "audio" : ["Hindi" , "Tamil", "Telugu", "English"],
+      "audio_id" : ["audio_122084_hin=121600" , "audio_122086_tam=121600" , "audio_122088_tel=121600" , "audio_122082_eng=121600"],
+      "video_id" : "video=3187600",
+      "ripType" : "TATAPlay TV-DL",
+      "catchup" : "2:00:00",
+      "quality" : "1080p"
+    }
+  ],
+  "TEST": [
+    {
+      "title": "Test",
+      "tataSkyid": 127,
+      "link": "https://bitmovin-a.akamaihd.net/content/MI20192708/stream.mpd", 
+      "k" : "966ce4ee21745f4bb811fcf61e76aefd:52a9bd0a4f51ff1b874ff22c5092e0f2",
+      "audio" : ["English"],
+      "audio_id" : ["5667bbdb-2fd0-4712-8d48-95a12cca70e0"],
+      "video_id" : "3102919f-f8a0-4e4c-b3c8-e6984ea0c459",
+      "ripType" : "WEB-DL",
+      "quality" : "228p"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+pyrogram
+tgcrypto
+requests
+hachoir
+pytz
+hachoir
+ffmpeg-python
+tabulate
+Flask
+requests
+pycryptodome
+pycryptodomex
+crypto
+cryptography
+protobuf
+opencv-python-headless
